@@ -1,3 +1,3 @@
-# Contacts block-outline
+# Contacts book
 
 You can add, edit and delete contacts
